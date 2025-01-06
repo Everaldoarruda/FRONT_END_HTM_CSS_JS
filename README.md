@@ -1,0 +1,1 @@
+#Responsividade: A utilização de grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); no CSS assegura que a grade de fotos se ajuste automaticamente em diferentes tamanhos de tela
